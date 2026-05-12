@@ -1,0 +1,28 @@
+{
+  "name": "pulsepage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Simple uptime monitor app prototype for Google Play side-income project.",
+  "scripts": {
+    "start": "node api/server.js",
+    "check": "node api/check-url.js https://example.com",
+    "alerts": "node api/pending-alerts.js",
+    "test": "node api/self-test.js",
+    "status": "node api/status-report.js",
+    "discord-alerts": "node api/discord-alert-report.js",
+    "mobile:sync": "npx cap sync android",
+    "mobile:open": "npx cap open android",
+    "mobile:add:android": "npx cap add android",
+    "mobile:doctor": "npx cap doctor"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.3",
+    "@capacitor/core": "^8.3.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.3.3"
+  }
+}

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PulsePage</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PulsePage</p>
+        <h1>Your money page has a heartbeat.</h1>
+        <p class="sub">Simple website and server monitoring for side hustlers, freelancers, and small business owners.</p>
+      </div>
+      <div class="score-card">
+        <div class="score" id="score">—</div>
+        <div class="score-label">healthy monitors</div>
+      </div>
+    </section>
+
+    <section class="stats-row" aria-label="Monitor stats">
+      <div class="stat"><span id="statTotal">—</span><small>Total</small></div>
+      <div class="stat good"><span id="statUp">—</span><small>Up</small></div>
+      <div class="stat bad"><span id="statDown">—</span><small>Down</small></div>
+      <div class="stat warn"><span id="statAlerts">—</span><small>Alerts</small></div>
+    </section>
+
+    <section class="card add-card">
+      <div class="add-header">
+        <div>
+          <h2>Add a monitor</h2>
+          <p>Pick what you want PulsePage to watch. No technical guessing needed.</p>
+        </div>
+      </div>
+
+      <div class="type-picker" role="tablist" aria-label="Monitor type">
+        <button class="type-option active" data-type="website" type="button">🌐 Website</button>
+        <button class="type-option" data-type="server" type="button">🖥️ Server port</button>
+      </div>
+
+      <div class="add-form">
+        <label>
+          <span>Name</span>
+          <input id="name" placeholder="Example: My Store" />
+        </label>
+        <label class="target-label">
+          <span id="targetLabel">Website URL</span>
+          <input id="url" placeholder="example.com" />
+        </label>
+        <button id="add">Add monitor</button>
+      </div>
+      <p class="hint" id="targetHint">Tip: paste a website like example.com or https://example.com. PulsePage will clean it up.</p>
+    </section>
+
+    <section class="card settings-card">
+      <div class="section-title">
+        <h2>App connection</h2>
+        <span id="connectionState">checking…</span>
+      </div>
+      <p class="hint">For Android, point the app at the hosted PulsePage API. Leave blank for same-server web mode.</p>
+      <div class="settings-form">
+        <label>
+          <span>API base URL</span>
+          <input id="apiBaseInput" placeholder="https://pulsepage.yourdomain.com" autocomplete="off" />
+        </label>
+        <label>
+          <span>Admin token</span>
+          <input id="adminTokenInput" placeholder="optional private token" autocomplete="off" type="password" />
+        </label>
+        <button id="saveSettings" type="button">Save</button>
+      </div>
+      <p class="hint" id="settingsHint">Settings stay on this device.</p>
+    </section>
+
+    <section class="card alerts-card">
+      <div class="section-title">
+        <h2>Recent alerts</h2>
+        <span>status changes</span>
+      </div>
+      <div id="alerts" class="alerts">Loading alerts…</div>
+    </section>
+
+    <div class="section-title monitors-title">
+      <h2>Monitors</h2>
+      <span>live checks</span>
+    </div>
+    <section id="monitors" class="grid">
+      <article class="card skeleton"></article>
+      <article class="card skeleton"></article>
+    </section>
+  </main>
+  <script src="/config.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

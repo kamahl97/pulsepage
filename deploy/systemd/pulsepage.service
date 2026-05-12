@@ -1,0 +1,21 @@
+[Unit]
+Description=PulsePage uptime monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pulsepage
+Group=pulsepage
+WorkingDirectory=/opt/pulsepage/current
+EnvironmentFile=/etc/pulsepage/pulsepage.env
+ExecStart=/usr/bin/node api/server.js
+Restart=always
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/var/lib/pulsepage
+
+[Install]
+WantedBy=multi-user.target

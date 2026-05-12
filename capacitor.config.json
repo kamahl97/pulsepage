@@ -1,0 +1,8 @@
+{
+  "appId": "com.pulsepage.monitor",
+  "appName": "PulsePage",
+  "webDir": "app",
+  "server": {
+    "androidScheme": "https"
+  }
+}

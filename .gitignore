@@ -1,0 +1,37 @@
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# env/secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+.npm/
+
+# Android/Gradle
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# logs/db
+*.log
+*.sqlite
+*.sqlite3
+
+# PulsePage local runtime data
+api/data/*.json
+api/data/*.bak
+api/data/*.sqlite
+api/data/*.sqlite3
+!api/data/sample-pulsepage.json
