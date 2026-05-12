@@ -10,7 +10,7 @@ Google Play production access blocker:
 
 - Closed/internal testing release: published / already set up.
 - Version: v2 / 1.0.1 AAB.
-- Current blocker shown by Play Console: **0 / 12 testers opted in** at last screenshot.
+- Current blocker shown by Play Console: **0 / 12 testers opted in** at last screenshot. Tester link has been confirmed working by Randy.
 - Production application button remains disabled until requirements are met.
 
 ## Important links
@@ -23,10 +23,10 @@ Google Play production access blocker:
 
 ## Tester opt-in link
 
-Paste the Google Play closed testing opt-in link here when available:
+Confirmed working tester/store link:
 
 ```text
-TODO: add opt-in link
+https://play.google.com/store/apps/details?id=com.pulsepage.monitor
 ```
 
 ## Tester checklist
