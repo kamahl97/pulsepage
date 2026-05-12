@@ -1,0 +1,699 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2249 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(Side Hustle Website Survival Kit) Tj
+0 -14 Td
+(Stop losing sales to silent website problems.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Website Risk Scorecard) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Use this once a week. Score 1 point for every YES.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Money page basics) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(1. My homepage loads on phone and desktop.) Tj
+0 -14 Td
+(2. My main offer/product/service page loads.) Tj
+0 -14 Td
+(3. My checkout, booking, order, or contact path works.) Tj
+0 -14 Td
+(4. My contact form sends to the right email.) Tj
+0 -14 Td
+(5. My business phone/email/social link is visible.) Tj
+0 -14 Td
+(6. My SSL padlock is active and not expired.) Tj
+0 -14 Td
+(7. My site loads in under 4 seconds on mobile data.) Tj
+0 -14 Td
+(8. My most important button is visible without scrolling.) Tj
+0 -14 Td
+(9. My refund/cancellation/contact expectations are clear.) Tj
+0 -14 Td
+(10. My site has no obvious broken images or broken links.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Trust signals) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(11. Visitors can tell what I sell within 5 seconds.) Tj
+0 -14 Td
+(12. Prices or next-step instructions are clear.) Tj
+0 -14 Td
+(13. There is at least one trust signal: reviews, portfolio, guarantee, credentials, real) Tj
+0 -14 Td
+(photos, or clear business details.) Tj
+0 -14 Td
+(14. The site does not look abandoned: current year, working links, updated hours, active) Tj
+0 -14 Td
+(inventory/services.) Tj
+0 -14 Td
+(15. Customers know what happens after they pay, submit, or book.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Monitoring) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(16. I have a monitor watching the main website.) Tj
+0 -14 Td
+(17. I have a monitor watching checkout/contact/booking.) Tj
+0 -14 Td
+(18. I know who gets alerted if something breaks.) Tj
+0 -14 Td
+(19. I have checked the site from my phone in the last 7 days.) Tj
+0 -14 Td
+(20. I have a simple outage plan.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Score) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? 17-20: Strong. Keep monitoring.) Tj
+0 -14 Td
+(? 13-16: Good, but there are leaks to close.) Tj
+0 -14 Td
+(? 8-12: Risky. You may be losing sales quietly.) Tj
+0 -14 Td
+(? 0-7: Emergency mode. Fix the basics before sending traffic.) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Length 1696 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -14 Td
+(Money Page Monitoring Checklist) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Monitor the pages that directly affect revenue, not just the homepage.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Monitor these first) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Homepage) Tj
+0 -14 Td
+(? Product/service page) Tj
+0 -14 Td
+(? Checkout page) Tj
+0 -14 Td
+(? Booking page) Tj
+0 -14 Td
+(? Contact page) Tj
+0 -14 Td
+(? Lead form confirmation page) Tj
+0 -14 Td
+(? Login/account page if customers need it) Tj
+0 -14 Td
+(? API/status endpoint if your app depends on one) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(What to watch) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Page is reachable) Tj
+0 -14 Td
+(? SSL certificate is valid) Tj
+0 -14 Td
+(? Response time is not unusually slow) Tj
+0 -14 Td
+(? Checkout/contact path still works) Tj
+0 -14 Td
+(? Important images/scripts are not broken) Tj
+0 -14 Td
+(? Domain renewal date is known) Tj
+0 -14 Td
+(? Hosting bill/payment method is current) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Suggested schedule) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Homepage: every 15-30 minutes) Tj
+0 -14 Td
+(? Checkout/booking/contact: every 15 minutes) Tj
+0 -14 Td
+(? SSL/domain review: monthly) Tj
+0 -14 Td
+(? Full manual phone test: weekly) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Warning signs) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Site loads sometimes, fails sometimes) Tj
+0 -14 Td
+(? Mobile view is broken) Tj
+0 -14 Td
+(? Contact form says ?sent? but no email arrives) Tj
+0 -14 Td
+(? Checkout works in test mode but not live mode) Tj
+0 -14 Td
+(? SSL warning appears) Tj
+0 -14 Td
+(? Plugin/theme update changed layout) Tj
+0 -14 Td
+(? Speed suddenly gets worse) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 1874 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(Simple rule) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(If a page can make or lose money, it deserves a monitor.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Outage Response Script) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(When your site breaks, do not panic-scroll. Follow this order.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(1. Confirm the problem) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Open the site on your phone using cellular data.) Tj
+0 -14 Td
+(? Open it in a private/incognito browser window.) Tj
+0 -14 Td
+(? Test the exact customer path: view page ? click button ? submit/buy/book.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(2. Identify the type of failure) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Whole site down) Tj
+0 -14 Td
+(? One page down) Tj
+0 -14 Td
+(? Checkout/payment broken) Tj
+0 -14 Td
+(? Contact/lead form broken) Tj
+0 -14 Td
+(? Site works but is very slow) Tj
+0 -14 Td
+(? SSL/security warning) Tj
+0 -14 Td
+(? Wrong content/pricing/hours shown) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3. Immediate customer-safe action) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Use the fastest temporary fix:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Add a banner: ?We?re fixing checkout. Email us at ___ for orders.?) Tj
+0 -14 Td
+(? Update social bio/link if the main link is broken.) Tj
+0 -14 Td
+(? Switch checkout/contact link to a backup form/payment link.) Tj
+0 -14 Td
+(? Pause ads if paid traffic is being sent to a broken page.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(4. Message template) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(?Quick heads up: our [checkout/contact/booking page] is having a temporary issue. We?re) Tj
+0 -14 Td
+(fixing it now. If you need help right away, use [backup email/link]. Thanks for your) Tj
+0 -14 Td
+(patience.?) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(5. After it is fixed) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Test from phone and desktop.) Tj
+0 -14 Td
+(? Save what broke and how it was fixed.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 1664 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(? Add a monitor so the same issue is caught faster next time.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(15-Minute Weekly Site Health Routine) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Do this once a week before sending traffic, posting offers, or running ads.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Minute 0-3: mobile check) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Open homepage on phone.) Tj
+0 -14 Td
+(? Open main product/service page.) Tj
+0 -14 Td
+(? Tap the main call-to-action.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Minute 3-6: money path check) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Start checkout, booking, or contact flow.) Tj
+0 -14 Td
+(? Confirm button text and price are correct.) Tj
+0 -14 Td
+(? Confirm confirmation page/message appears.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Minute 6-9: trust check) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Are hours, prices, links, and contact info current?) Tj
+0 -14 Td
+(? Do reviews/testimonials/portfolio items still show?) Tj
+0 -14 Td
+(? Is there anything that looks abandoned?) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Minute 9-12: speed and broken stuff) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Scroll the page.) Tj
+0 -14 Td
+(? Look for broken images, weird layout, slow loading, popups covering buttons.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Minute 12-15: log it) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Record:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Date checked) Tj
+0 -14 Td
+(? What worked) Tj
+0 -14 Td
+(? What broke) Tj
+0 -14 Td
+(? Fix needed) Tj
+0 -14 Td
+(? Next check date) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Customer Trust Quick Fixes) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(These are small fixes that often matter more than fancy design.) Tj
+0 -14 Td
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 1675 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -14 Td
+(Make it obvious) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? What do you sell?) Tj
+0 -14 Td
+(? Who is it for?) Tj
+0 -14 Td
+(? What does it cost?) Tj
+0 -14 Td
+(? What should the visitor do next?) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Add trust) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Real business name) Tj
+0 -14 Td
+(? Contact email) Tj
+0 -14 Td
+(? Clear refund/cancellation policy) Tj
+0 -14 Td
+(? Reviews, screenshots, case studies, portfolio, before/after examples) Tj
+0 -14 Td
+(? Delivery timeline or service expectations) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Remove doubt) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Replace vague buttons like ?Submit? with ?Get quote? or ?Book appointment.?) Tj
+0 -14 Td
+(? Explain what happens after form submission.) Tj
+0 -14 Td
+(? Put the main CTA near the top.) Tj
+0 -14 Td
+(? Make phone/email tappable on mobile.) Tj
+0 -14 Td
+(? Remove dead social links.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The 5-second test) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Show your page to someone for 5 seconds. Ask:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(1. What is this business selling?) Tj
+0 -14 Td
+(2. Who is it for?) Tj
+0 -14 Td
+(3. What should I click next?) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(If they cannot answer, the page is leaking money.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Launch Day Checklist) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Use before launching a product, ad, website, sale, service, event, or campaign.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Before posting the link) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Homepage loads) Tj
+0 -14 Td
+(? Offer page loads) Tj
+0 -14 Td
+(? Checkout/booking/contact works) Tj
+0 -14 Td
+(? Confirmation email/message arrives) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 1955 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(? Price is correct) Tj
+0 -14 Td
+(? Coupon code works, if used) Tj
+0 -14 Td
+(? Mobile layout is usable) Tj
+0 -14 Td
+(? Main image/video loads) Tj
+0 -14 Td
+(? Terms/refund/contact info are visible) Tj
+0 -14 Td
+(? Analytics/pixel installed, if used) Tj
+0 -14 Td
+(? Backup contact method ready) Tj
+0 -14 Td
+(? Monitor active on main page and money page) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(After posting) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Click your own link from the live post/email/profile.) Tj
+0 -14 Td
+(? Test on phone using cellular data.) Tj
+0 -14 Td
+(? Check for first visitor/order/form submission.) Tj
+0 -14 Td
+(? Watch error messages for the first hour.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(If something breaks) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Pause traffic, switch to backup link, post a short fix message, and log the cause.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Tool Stack Under $50) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(A low-budget stack for keeping a small money site alive.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Free / low-cost basics) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? Domain registrar account with auto-renew enabled) Tj
+0 -14 Td
+(? Hosting account with payment method current) Tj
+0 -14 Td
+(? Free SSL certificate from host/Let?s Encrypt) Tj
+0 -14 Td
+(? Google Search Console) Tj
+0 -14 Td
+(? Google Analytics or privacy-friendly analytics) Tj
+0 -14 Td
+(? Uptime monitor such as PulsePage or another simple monitor) Tj
+0 -14 Td
+(? A backup contact form/link) Tj
+0 -14 Td
+(? A spreadsheet for weekly checks) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Optional paid spend) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(? $9-$19: domain privacy/renewal buffer if needed) Tj
+0 -14 Td
+(? $0-$20: simple logo/banner if needed) Tj
+0 -14 Td
+(? $0-$10: Gumroad/Etsy listing images made with free tools) Tj
+0 -14 Td
+(? $0-$50: only spend on traffic after checkout/contact is verified) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Don?t spend first on) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 231 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -14 Td
+(? Fancy logo packages) Tj
+0 -14 Td
+(? Generic ?business courses?) Tj
+0 -14 Td
+(? Paid ads before the site path works) Tj
+0 -14 Td
+(? Expensive tools before you have sales) Tj
+0 -14 Td
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Pages /Kids [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 7 >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+17 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000002380 00000 n 
+0000004128 00000 n 
+0000006054 00000 n 
+0000007770 00000 n 
+0000009497 00000 n 
+0000011504 00000 n 
+0000011786 00000 n 
+0000011886 00000 n 
+0000012013 00000 n 
+0000012140 00000 n 
+0000012267 00000 n 
+0000012394 00000 n 
+0000012521 00000 n 
+0000012648 00000 n 
+0000012775 00000 n 
+trailer << /Size 18 /Root 17 0 R >>
+startxref
+12825
+%%EOF
