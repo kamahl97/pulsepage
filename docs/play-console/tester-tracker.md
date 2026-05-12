@@ -15,6 +15,7 @@ Google Play production access blocker:
 
 ## Important links
 
+- Google Play store/package link: https://play.google.com/store/apps/details?id=com.pulsepage.monitor
 - GitHub repo: https://github.com/kamahl97/pulsepage
 - AAB: https://getpulsepage.com/play-console/pulsepage-release-v2.aab
 - Privacy policy: https://getpulsepage.com/legal/privacy.html
